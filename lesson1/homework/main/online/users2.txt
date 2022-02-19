@@ -1,0 +1,9 @@
+name: Anya
+age: 34
+name: Olya
+city: Киев
+age: 35
+city: Винница
+name: Ira
+city: Житомир
+age: 36

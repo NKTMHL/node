@@ -1,0 +1,9 @@
+name: Petya
+age: 31
+city: Львов
+name: Sasha
+age: 32
+city: Тернополь
+name: Pasha
+age: 33
+city: Луцк
